@@ -1,3 +1,6 @@
+[![Type](https://img.shields.io/badge/Type-Machine_Learning-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-scikit--learn-7c3aed?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
 # Student Performance ML Pipeline
 
 [简体中文](README.zh-CN.md)

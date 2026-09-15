@@ -1,0 +1,2 @@
+classifier__C,classifier__gamma,preprocessor__numeric__scaler
+15.0,0.2,RobustScaler()

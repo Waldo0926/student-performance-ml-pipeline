@@ -1,3 +1,6 @@
+[![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-2563eb?style=for-the-badge)](#)
+[![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-scikit--learn-7c3aed?style=for-the-badge)](#)
+[![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
 # 学生成绩机器学习流水线
 
 [English](README.md)

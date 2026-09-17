@@ -1,9 +1,10 @@
+# Student Performance ML Pipeline
+
+**English** · [中文](README.zh-CN.md)
+
 [![Type](https://img.shields.io/badge/Type-Machine_Learning-2563eb?style=for-the-badge)](#)
 [![Tech](https://img.shields.io/badge/Tech-scikit--learn-7c3aed?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
-# Student Performance ML Pipeline
-
-[简体中文](README.zh-CN.md)
 
 A leakage-safe, reproducible machine-learning pipeline for **multi-class student grade prediction** using Python and scikit-learn. The project covers data-quality auditing, exploratory analysis, feature preprocessing, SVM and Random Forest baselines, macro-F1-driven model selection, and reproducible evaluation.
 

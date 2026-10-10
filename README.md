@@ -183,8 +183,8 @@ The portfolio version uses:
 
 It excludes:
 
-- `StudentID` — identifier, not a meaningful predictor;
-- `GPA` — directly determines the target label and would cause target leakage.
+- `StudentID`: identifier, not a meaningful predictor;
+- `GPA`: directly determines the target label and would cause target leakage.
 
 ### Models
 

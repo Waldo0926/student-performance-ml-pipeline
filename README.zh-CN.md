@@ -3,7 +3,7 @@
 [![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
 # 学生成绩机器学习流水线
 
-[English](README.md)
+[English](README.md) · **中文**
 
 这是一个使用 Python 与 scikit-learn 构建的、**可复现且避免数据泄漏**的多分类机器学习项目，用于预测学生成绩等级。项目涵盖数据质量审计、探索性数据分析、特征预处理、SVM 与随机森林基线模型、基于 Macro-F1 的模型选择以及可复现评估。
 
